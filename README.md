@@ -1,2 +1,2 @@
 # Samsung-Coding-Round
-It consist of few Samsung coding round question &amp; Solution
+It consist of some previous Samsung coding round question &amp; Solution
